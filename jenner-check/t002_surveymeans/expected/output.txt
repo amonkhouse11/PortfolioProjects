@@ -1,0 +1,19 @@
+
+                        The SURVEYMEANS Procedure
+
+     Number of Observations Read         15
+     Number of Observations Used         15
+     Sum of Weights                      309300.00
+     Stratum Variable: sddsrvyr                3 Strata
+     Cluster Variable: sdmvpsu             2 Clusters
+
+Variable                N            Mean       Std Error        Lower CL        Upper CL
+-----------------------------------------------------------------------------------------
+phq9                   15          9.0744          1.2139          5.2113         12.9374
+tbi                    15         -0.0511          0.1353         -0.4818          0.3796
+lbdfersi               15         62.1177          6.0582         42.8378         81.3976
+lbxtfr                 15         17.5248          1.0231         14.2688         20.7807
+lbxcrp                 15          5.4562          0.7253          3.1479          7.7645
+bmxbmi                 15         24.9584          0.9665         21.8826         28.0342
+-----------------------------------------------------------------------------------------
+

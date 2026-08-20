@@ -1,0 +1,37 @@
+
+                      The SURVEYLOGISTIC Procedure
+
+  Number of Strata                3
+  Number of Clusters              2
+  Number of Observations         12
+  Number of Events                7
+  Number of Non-Events            5
+  Link Function              glogit
+  Variance Method            TAYLOR
+
+                Model Fit Statistics
+
+  -2 Log Likelihood         13.0568
+  AIC                       17.0568
+  SC                        18.0266
+
+                  Analysis of Maximum Likelihood Estimates
+
+Parameter                   Estimate       Std Error     t Value    Pr > |t|
+----------------------------------------------------------------------------
+Intercept                   1.657971        1.016295      1.6314      0.3501
+TBI2                       -2.438028        0.717834     -3.3964      0.1823
+----------------------------------------------------------------------------
+
+                         Odds Ratio Estimates
+
+Effect                    Odds Ratio
+------------------------------------
+TBI2                          0.0873
+------------------------------------
+
+                       Association of Predicted Probabilities
+
+  Percent Concordant      57.1
+  Percent Discordant       5.7
+  c Statistic           0.7571

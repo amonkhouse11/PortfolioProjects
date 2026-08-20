@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_sgplot_scatter",
+  "source_file": "Working_code_cleaned.sas",
+  "source_blob_sha": "e651e511f836845bdf3d2f540325811edee79f8a",
+  "source_commit": "fc233d5297443d771d3cd1358a25df856c9fc285",
+  "notes": "The script's 'Scatter Plot With Modifications TBI & PHQ9' PROC SGPLOT step (styleattrs datasymbols + grouped scatter + keylegend), run against a small inline mock nhanes dataset instead of the thesis.* libname data."
+}
