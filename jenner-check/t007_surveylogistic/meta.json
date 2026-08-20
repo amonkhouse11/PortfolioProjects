@@ -1,0 +1,7 @@
+{
+  "bundle": "t007_surveylogistic",
+  "source_file": "Working_code_cleaned.sas",
+  "source_blob_sha": "e651e511f836845bdf3d2f540325811edee79f8a",
+  "source_commit": "fc233d5297443d771d3cd1358a25df856c9fc285",
+  "notes": "PROC SURVEYLOGISTIC step (strata/cluster/weight design, link=glogit) modeling phq2 on TBI2, matching the source's final PROC step, run against a small inline mock nhanes dataset with the same recode logic."
+}

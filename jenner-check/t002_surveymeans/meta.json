@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_surveymeans",
+  "source_file": "Working_code_cleaned.sas",
+  "source_blob_sha": "e651e511f836845bdf3d2f540325811edee79f8a",
+  "source_commit": "fc233d5297443d771d3cd1358a25df856c9fc285",
+  "notes": "PROC SURVEYMEANS with weight/strata/cluster survey design over the merged nhanes dataset. Original nhanes built from libname thesis reads; substituted with a small inline mock nhanes dataset with the same analytic columns. PROC SURVEYMEANS step unchanged from source (WHERE subpop=1 dropped since subpop isn't computed in this narrower bundle)."
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_data_merge_recode",
+  "source_file": "Working_code_cleaned.sas",
+  "source_blob_sha": "e651e511f836845bdf3d2f540325811edee79f8a",
+  "source_commit": "fc233d5297443d771d3cd1358a25df856c9fc285",
+  "notes": "Data-engineering core of the script: seven cohort domains (crp/demo/phq9/ferritin/tfr/tbi/bmi) sorted and merged by seqn, then recoded into hispanic/black/other/ethncat/subpop/PHQ2/TBI2. Original reads via libname thesis \"D:\\Thesis\"; substituted with small inline mock per-domain datasets matching the same keys/shape. Merge, sort, and recode logic unchanged from source."
+}
